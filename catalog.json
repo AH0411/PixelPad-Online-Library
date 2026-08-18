@@ -1,4 +1,22 @@
 {
   "library_version": 1,
-  "games": []
+  "games": [
+    {
+      "id": "counter_test",
+      "title": "Counter Test",
+      "developer": "PixelPad",
+      "version": "1.0.0",
+      "folder": "counter_test",
+      "files": [
+        {
+          "name": "manifest.json",
+          "url": "https://raw.githubusercontent.com/AH0411/PixelPad-Online-Library/main/games/counter_test/manifest.json"
+        },
+        {
+          "name": "main.lua",
+          "url": "https://raw.githubusercontent.com/AH0411/PixelPad-Online-Library/main/games/counter_test/main.lua"
+        }
+      ]
+    }
+  ]
 }
