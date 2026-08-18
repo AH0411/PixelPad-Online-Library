@@ -1,8 +1,0 @@
-{
-  "id": "pixel_xo",
-  "title": "Pixel XO",
-  "developer": "PixelPad",
-  "version": "1.0.0",
-  "entry": "main.lua",
-  "cover": "cover.png"
-}
