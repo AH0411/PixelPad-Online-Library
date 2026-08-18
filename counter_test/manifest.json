@@ -1,7 +1,0 @@
-{
-  "id": "counter_test",
-  "title": "Counter Test",
-  "developer": "PixelPad",
-  "version": "1.0.0",
-  "entry": "main.lua"
-}
